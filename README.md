@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/Utkarshsaini01/DocHub/assets/89131117/41244059-5922-4fa2-9425-ffeb462ddeb7" alt="Logo" width="100" height="100">
   <br />
-  <h2 align="center">DocHub 📁</h2>
+  <h2 align="center"><a href="https://doc-hub-utkarshsaini01s-projects.vercel.app/">DocHub 📁</a></h2>
   <p align="center">
     Open you docs, wherever you go.
     <br/>
@@ -71,3 +71,6 @@ To run this project, you will need to add the following environment variables to
 
 ## 👨‍💻 Authors
 - [@UtkarshSaini](https://www.github.com/Utkarshsaini01)
+
+## 💻 Deployed Link
+-[DocHub](https://doc-hub-utkarshsaini01s-projects.vercel.app/)
