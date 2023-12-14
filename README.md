@@ -6,7 +6,7 @@
   <p align="center">
     Open you docs, wherever you go.
     <br/>
-    <a href="https://github.com/Utkrashsaini01/DocHub"<strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Utkarshsaini01/DocHub"<strong>Explore the docs »</strong></a>
     <br />
     •
     <a href="https://github.com/Utkarshsaini01/DocHub/issues">Report Bug</a>
